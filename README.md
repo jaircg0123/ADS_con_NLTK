@@ -1,4 +1,4 @@
-# ADS_con_NLTK
+# PLN_PROYECTO_LuisJairCruzGarcia
 Analisis de Sentimientos usando la librería NLTK de python
 
 Este proyecto se divide en 3 etapas
